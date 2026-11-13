@@ -1,0 +1,6 @@
+Registro ordenar numero
+Primero se creó un registro, que pidiera numeros, este fue con float, sin embargo tuvo que ser cambiado por INT, ya que el primero no reconocia los numeros como enteros.  
+
+Luego se le pidió que me dijero los numero escritos
+
+Luego se tuvo que sortear (ordenar . sort), este se le pidio que me los ordenara con un reversa, de mayor a menor lo trae por defecto, por lo que se le tuvo que indicar que este metodo de sortear era falso, para que de esa manera hiciera el contrario y al imprimir los traiga de menor a mayor.  
